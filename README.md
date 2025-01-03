@@ -35,6 +35,26 @@ Project Structure
 
 Environment Variables
 Create a .env file in the root directory and add the following
+
 PORT=3000
+
 MONGODB_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret
+
+Installation and Setup
+Clone the repository:
+git clone https://github.com/your-username/Blog_Management.git
+
+cd Blog_Management
+
+Install dependencies:
+npm install
+
+Start the server:
+node server.js
+
+
+
+
+
