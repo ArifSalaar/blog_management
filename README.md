@@ -16,13 +16,21 @@ Validation: express-validator
 
 Project Structure
 📁 Blog_Management
+
 ├── 📁 config        // Database connection
+
 ├── 📁 controllers   // Controllers for User and Blog
+
 ├── 📁 middleware    // Authentication middleware
+
 ├── 📁 models        // User and Blog schemas
+
 ├── 📁 routes        // API routes
+
 ├── 📄 .env          // Environment variables
+
 ├── 📄 server.js     // Entry point
+
 └── 📄 README.md     // Documentation
 
 Environment Variables
